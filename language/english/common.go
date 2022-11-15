@@ -1,4 +1,4 @@
-package gender
+package english
 
 import (
   "github.com/lcyvin/go-genders"
